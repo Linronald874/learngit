@@ -1,10 +1,6 @@
 here i would write some words.
 now some change
 new discription xdd
-ahhh what should i write..
-do some change
-<<<<<<< HEAD
-aaaaaaaaaaac
-=======
-aaaaaaaaaaab
->>>>>>> brntch
+
+
+should be rewrite.
