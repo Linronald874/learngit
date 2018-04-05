@@ -3,4 +3,8 @@ now some change
 new discription xdd
 ahhh what should i write..
 do some change
+<<<<<<< HEAD
 aaaaaaaaaaac
+=======
+aaaaaaaaaaab
+>>>>>>> brntch
